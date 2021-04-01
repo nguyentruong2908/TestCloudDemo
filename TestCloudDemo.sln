@@ -10,6 +10,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCloudDemo.Droid", "Droi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCloudDemo.UITests", "UITests\TestCloudDemo.UITests.csproj", "{FD99B853-EAC1-46EE-A102-52B984610D73}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1AB8A16-A88E-4F06-9061-2EA06ED4DBBD}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		TestCloudDemo\TestCloudDemo.projitems*{02608a7b-6ac0-45c8-8e2f-702982c441d4}*SharedItemsImports = 4
